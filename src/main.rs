@@ -86,5 +86,5 @@ fn main() {
         ping_aeza(&client);
         return;
     }
-    println!("Mini-client for {}", URL_BASE.yellow())
+    println!("PasteBin Alternative by Aeza [{}]", URL_BASE.yellow())
 }
