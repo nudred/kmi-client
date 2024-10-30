@@ -20,7 +20,7 @@ Certainly! Here’s a polished README in `.md` format in English for your projec
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/nudred/kmi.git
+   git clone https://github.com/nudred/kmi-client.git
    cd kmi
    ```
 
