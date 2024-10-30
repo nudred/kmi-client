@@ -1,0 +1,13 @@
+[package]
+name = "kmi"
+version = "0.1.0"
+authors = ["nudred <mpu.cmo@gmail.com>"]
+description = "Аналог PasteBin от Aeza"
+license = "MIT"
+edition = "2021"
+
+[dependencies]
+reqwest = { version = "0.12.9", features = ["blocking"] }
+clap = "4.5.20"
+colored = "2.0"
+atty = "0.2"
