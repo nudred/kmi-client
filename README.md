@@ -17,7 +17,7 @@
 1. Clone the repository:
    ```bash
    git clone https://github.com/nudred/kmi-client.git
-   cd kmi
+   cd kmi-client
    ```
 
 2. Build the project:
