@@ -2,7 +2,7 @@
 name = "kmi"
 version = "0.1.0"
 authors = ["nudred <mpu.cmo@gmail.com>"]
-description = "Аналог PasteBin от Aeza"
+description = "PasteBin Alternative by Aeza"
 license = "MIT"
 edition = "2021"
 
