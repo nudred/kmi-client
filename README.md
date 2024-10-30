@@ -29,14 +29,13 @@
    ```bash
    ./target/release/kmi --help
    ```
-or copy to `/usr/bin/` and run everywhere
+   Or copy to `/usr/bin/` and run everywhere
    ```bash
    cp ./target/release/kmi /usr/bin/
    ```
    ```bash
    kmi --help
    ```
-
 ## Usage
 
 ### Basic Commands
