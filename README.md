@@ -1,7 +1,3 @@
-Certainly! Here’s a polished README in `.md` format in English for your project:
-
----
-
 # KMI - PasteBin Alternative by Aeza
 
 **KMI** is a Rust-based command-line utility that allows you to send text data to a server in a PasteBin-like style, retrieve your IP address, and check server connectivity. This project is designed to work with the [Aeza](https://kmi.aeza.net) service.
@@ -78,7 +74,3 @@ Contributions are welcome! Please create an issue or submit a pull request if yo
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
---- 
-
-This README is now in `.md` format and ready for a GitHub audience!
