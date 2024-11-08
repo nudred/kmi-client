@@ -36,6 +36,11 @@
    ```bash
    kmi --help
    ```
+   
+   NOTE: Windows users can copy `kmi.exe` to `C:\Windows`
+   
+   Or add path to `kmi.exe` in `PATH` environment
+   
 ## Usage
 
 ### Basic Commands
